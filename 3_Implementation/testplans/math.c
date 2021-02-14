@@ -1,3 +1,5 @@
+//99003788_Suvradeep
+//Binary to Decimal Conversion
 #include "math.h"
 
 int bintodec(long int a)
@@ -38,3 +40,4 @@ int bintodec(long int a)
     }
 
 }
+//end of function
