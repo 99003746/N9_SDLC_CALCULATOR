@@ -41,3 +41,34 @@ int bintodec(long int a)
 
 }
 //end of function
+
+//99003784_Souvik
+//for calculatinf power , logarithm and exponential function
+#include "math.h"
+#include<stdio.h>
+#include<math.h>
+
+double logarithm(double  x)
+ {
+     double a;
+     a = log(x);
+     printf(" %lf\n",a);
+    
+ }
+
+double exponent_num(double m)
+{
+    double r;
+    r = exp(m);
+    printf("%lf\n", r);
+    return r;
+}
+double power( double a,double b)
+{
+    double result_of_power_of_a_number;
+    result_of_power_of_a_number = pow(a, b);
+    printf("%.2lf",result_of_power_of_a_number);
+    return ;
+}
+
+//end of functions
