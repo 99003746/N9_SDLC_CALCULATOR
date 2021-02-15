@@ -10,6 +10,7 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
     //subtraction
     //multiplication
     //division
+    //trigonometric operation
     scanf("%d",&symbols);
    switch(symbols)
     {
