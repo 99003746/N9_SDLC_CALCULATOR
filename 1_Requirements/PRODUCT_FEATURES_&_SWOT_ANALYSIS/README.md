@@ -9,7 +9,7 @@
 
 4) The calculator is going to have a clear function which will clear the calculator display.
 
-5) The calculator will have a liquid crystal display i.e. LCD Display.
+5) The calculator will have a liquid crystal display i.e. LCD display.
 
 **SWOT ANALYSIS:**
 
