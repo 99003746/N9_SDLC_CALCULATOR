@@ -20,11 +20,13 @@
 
 3) It will work on solar power and has 1.5v battery as a battery backup and has an automatic power off.
 
-**WEAKNESS:** 1) It has limited operations. People trying to do calculations regarding complex numbers and other things regarding statistics will not be able to do so.
+**WEAKNESS:** 
+1) It has limited operations. People trying to do calculations regarding complex numbers and other things regarding statistics will not be able to do so.
 
 2) The battery inside a solar calculator is mostly alkaline button cell which cannot be recharged.
 
-**OPPORTUNITIES:** 1) The price of the product is less than other products with same features that are available in the market.
+**OPPORTUNITIES:** 
+1) The price of the product is less than other products with same features that are available in the market.
 
 2) The product will do very well in shop counters as the calculator is very user friendly and anybody can use it without prior knowledge of that calculator.
 
@@ -32,7 +34,8 @@
 
 4) The product will also work in banking sectors and other government sectors where they want low price, minimum features, handy products.
 
-**THREATS:** 1) Students who are pursuing higher education wont be interested in this product as it has limited operations.
+**THREATS:** 
+1) Students who are pursuing higher education wont be interested in this product as it has limited operations.
 
 2) Several other competitors are there who are willing to make the product with more features.
 
