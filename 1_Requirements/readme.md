@@ -12,7 +12,7 @@ This Calculator calculates Basic and some Specific Calculations on Just entring 
 
 4) Square roots and powers.
 
-5) Permutation and Combination.
+5) Permutation and Combinations.
 
 6) Finding area and perimeter of different geometrical shapes like circle, square and rectangle.
 
