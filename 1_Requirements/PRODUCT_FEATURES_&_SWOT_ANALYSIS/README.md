@@ -1,6 +1,7 @@
 **OUR PRODUCT**
 
-**FEATURES:** 1) The calculator will solve all basic arithmetic operations.(addition, substraction, multiplication and division)
+**FEATURES:** 
+1) The calculator will solve all basic arithmetic operations.(addition, substraction, multiplication and division)
 
 2) The calculator will solve all the exponential,logarithmic operations, power of a number.factorial of a number.
 
