@@ -79,7 +79,7 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
          seci=1/cos(ang);
        printf("sec=%f\n",seci);
         break;
-       case 10: //cot
+       case 10: //cot value in radian
         printf("Enter The Value Of Angle\n");
        scanf("%f",&ang);
         coti=1/tan(ang);
