@@ -15,3 +15,14 @@
 |  L_08       |---To find the logarithm--------------------------------  ----|--log(-100000)-----|--5+1.3i--|---error----  |-----boundary based----|
 |  L_09       |---To find the exponential--------------------------------  --|--exp(100000)-----|--undefined------  |-----error----|-----boundary based----|
 
+
+## ## Table no: Low level test plan
+
+| **Test ID** | **Description**                                              | **Exp IN**      | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
+|-------------|--------------------------------------------------------------|-----------------|-------------|----------------|------------------|
+|  L_01       |  To enter a binary number and convert to decimal-------------|      1000       |      8      |       8        |Requirement based |
+|  L_02       |  To enter a binary number and convert to decimal-------------|      1111       |      15     |       15       |Requirement based |
+|  L_03       |  To enter a binary number and convert to decimal-------------|       152       |Invalid Input|  Invalid Input |  Scenario based  |   
+|  L_04       |  To enter a binary number and convert to decimal-------------|      -101       |Invalid Input|  Invalid Input |  Scenario based  |
+|  L_05       |  To enter a binary number and convert to decimal-------------|       -85       |Invalid Input|  Invalid Input |  Scenario based  |
+
