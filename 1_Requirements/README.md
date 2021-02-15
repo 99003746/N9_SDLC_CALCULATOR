@@ -36,7 +36,7 @@ This Calculator calculates Basic and some Specific Calculations on Just entring 
 
 16) Arithmetic operations
 
-17) calculus and exponential
+17) Calculus and exponential.
 
 
 ## Low Level Requirements
