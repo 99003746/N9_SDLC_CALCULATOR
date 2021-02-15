@@ -35,7 +35,7 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
          mults=san1*san2;
          printf("multiplication=%f\n",mults);
          break;
-       case 4:
+       case 4://divison
        printf("Enter Two Numbers For Division\n");
        scanf("%f",&san1);
          scanf("%f",&san2);
