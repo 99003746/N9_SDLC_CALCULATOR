@@ -49,7 +49,7 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
          printf("division=%f\n",divs);
          }
          break;
-         case 5: //sine
+         case 5: //sine value in radian
           printf("Enter The Value Of Angle\n");
           scanf("%f",&ang);
           sine=sin(ang);
