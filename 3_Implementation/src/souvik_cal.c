@@ -39,8 +39,6 @@ int main()
     scanf("%lf", &value);
     scanf("%lf", &result);
     
-
-    
     result = exp(value);
 
     
