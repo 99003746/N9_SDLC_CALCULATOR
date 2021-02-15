@@ -115,7 +115,7 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
    arcseci=1/acos(ang);
    printf("sec inverse=%f\n",arcseci);
     break;
-   case 16: // cot inverse
+   case 16: // cot inverse in radian
    printf("Enter The Value\n");
    scanf("%f",&ang);
    arccoti=1/atan(ang);
