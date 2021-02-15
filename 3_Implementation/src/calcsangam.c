@@ -97,7 +97,7 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
         arccosi=acos(ang);
         printf("cos inverse=%f\n",arccosi);
         break;
-     case 13: //tan inverse
+     case 13: //tan inverse in radian
      printf("Enter The Value\n");
       scanf("%f",&ang);
      arctani=atan(ang);
