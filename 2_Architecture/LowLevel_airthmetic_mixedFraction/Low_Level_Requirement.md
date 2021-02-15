@@ -32,4 +32,10 @@ Low level requirement diagrams for log, exponent and power.
  low level requirement diagrams for Faractions and calculus.
 
 
+![use case behavioural](https://user-images.githubusercontent.com/78854021/107922160-a12fb280-6f95-11eb-99bc-6768ecdf25e8.jpg)
+
+![structural class](https://user-images.githubusercontent.com/78854021/107922169-a3920c80-6f95-11eb-9419-e3e9e102befb.jpg)
+
+
+
    
