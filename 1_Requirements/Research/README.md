@@ -4,7 +4,7 @@
  
   Scientific                    750                   log, natural log and trignometric functions
  
-  Engineer scientific           1600                  42 built-in Physical Constants
+  Engineer scientific           1600                  42 built-in Physical Constants.
  
   Financial                     3000                  The financial calculators usually have five important keys that represent the &#39;variables&#39;
  
