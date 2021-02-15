@@ -18,9 +18,6 @@ High level requirment for Arithmetic operations
 
 ![HLR FOR ARITHMETIC](https://user-images.githubusercontent.com/78854021/107904509-ffe33500-6f71-11eb-9104-8c19d9f06b0d.jpg)
 
-
-99003787_pujitha
-
 high level requirment for fractions and calculus
 
 ![CLASS DIAGRAM HLR PUJA](https://user-images.githubusercontent.com/78854021/107904633-623c3580-6f72-11eb-84f4-40c8da58eae1.jpg)
