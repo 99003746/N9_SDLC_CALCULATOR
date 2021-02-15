@@ -109,7 +109,7 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
     arccoseci=1/asin(ang);
    printf("cosec inverse=%f\n",arccoseci);
    break;
-   case 15:
+   case 15: //sec inverse
    printf("Enter The Value\n");
    scanf("%f",&ang);
    arcseci=1/acos(ang);
