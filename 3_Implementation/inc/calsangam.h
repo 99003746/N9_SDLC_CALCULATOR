@@ -6,7 +6,7 @@
 void calc();
 float sums(float san1,float san2);
 float subs(float san1,float san2);
-int mults(float san1,float san2);
-int divs(float san1,float san2);
+float mults(float san1,float san2);
+float divs(float san1,float san2);
 
 # endif
