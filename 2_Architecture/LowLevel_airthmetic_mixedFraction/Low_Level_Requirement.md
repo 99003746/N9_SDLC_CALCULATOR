@@ -30,9 +30,6 @@ Low level requirement diagrams for log, exponent and power.
  # 99003787_pujitha  
  
  low level requirement diagrams for Faractions and calculus.
- 
-![LOW LEVEL STRUCTURAL UML](https://user-images.githubusercontent.com/78854021/107921958-5150eb80-6f95-11eb-8dec-6e4520116044.jpg)
 
-![BEHAVIOR USE CASE LLR](https://user-images.githubusercontent.com/78854021/107921976-57df6300-6f95-11eb-98fd-cc56a38e2315.jpg)
 
    
