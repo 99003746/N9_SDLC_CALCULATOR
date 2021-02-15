@@ -67,7 +67,7 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
           tani=tan(ang);
           printf("tan=%f\n",tani);
           break;
-       case 8:
+       case 8: //cosec
           printf("Enter The Value Of Angle\n");
             scanf("%f",&ang);
            coseci=1/sin(ang);
