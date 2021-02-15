@@ -11,7 +11,7 @@
 
 2) Shop Counters
 
-3) Colleges
+3) Colleges and schools.
 
 4) Banking sectors
 
