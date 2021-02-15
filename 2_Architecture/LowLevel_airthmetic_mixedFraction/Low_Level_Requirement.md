@@ -1,4 +1,4 @@
-99003788_Suvradeep
+# 99003788_Suvradeep
 
 Low Level Requirement Diagrams For binary to decimal conversion.
 
@@ -7,7 +7,7 @@ Low Level Requirement Diagrams For binary to decimal conversion.
 ![low_level_2_99003788](https://user-images.githubusercontent.com/78849542/107884844-1ca14d80-6f1d-11eb-8049-8ea85ded1f83.png)
 
 
-99003784_Souvik
+# 99003784_Souvik
 
 Low level requirement diagrams for log, exponent and power.
 
@@ -16,7 +16,7 @@ Low level requirement diagrams for log, exponent and power.
 ![LOW_LEVEL_REQUIREMENT_USE_CASE_DIAGRAM_99003784](https://user-images.githubusercontent.com/78857077/107885757-0944b100-6f22-11eb-869b-3daf8c581eed.png)
    
    
- 99003787_pujitha  
+ # 99003787_pujitha  
  
  low level requirement diagrams for arithmetic operations
    
