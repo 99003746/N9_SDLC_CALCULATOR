@@ -13,7 +13,7 @@
 
 3) Colleges and schools.
 
-4) Banking sectors
+4) Banking sectors :
 
 **WHY:** 1) Complex calculations are very tough to calculate in less time , so this calculator is used for simple operations.
 
@@ -27,7 +27,7 @@
 
 2) Write the code for all the requirements.
 
-3) Use one programming language to code the functions.(C)
+3) Use one programming language to code the functions(C).
 
 4) Use github and visual studio for making and building file for required specification.
 
