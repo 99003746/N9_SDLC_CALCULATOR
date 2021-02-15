@@ -1,5 +1,5 @@
-﻿# Calculator
-This Calculator calculates Basic and some Specific Calculations on Just entring your Basic Details
+# Calculator
+This Calculator calculates Basic and some Specific Calculations on Just entring your Basic Details.
 
 
 # High Level Requirements
@@ -28,7 +28,7 @@ This Calculator calculates Basic and some Specific Calculations on Just entring 
 
 12) Temperature conversion.
 
-13) Arithmetic operations of fractions. (+,-,*,/)
+13) Arithmetic operations of fractions. (+,-,*,/) .
 
 14) Calculation of Reminder.
 
@@ -40,20 +40,20 @@ This Calculator calculates Basic and some Specific Calculations on Just entring 
 ## Low Level Requirements
 
 1) Exponential operation (result=b^x where b=base and x=exponent. Input type : integer and float) 
-   Logarithmic operation (result=log(x) where the input type of x is integer or float) 
+   Logarithmic operation (result=log(x) where the input type of x is integer or float) .
 
-2) Area and perimeter of different geometrical shapes (The input data type used in the scenario are integer and float)
+2) Area and perimeter of different geometrical shapes (The input data type used in the scenario are integer and float) .
 
-3) Permutation and Combination (result=nPr; input type : integer and result=nCr; input type: integer)
+3) Permutation and Combination (result=nPr; input type : integer and result=nCr; input type: integer) .
 
-4) using float for Decimal values
+4) using float for Decimal values .
 
-5) using int for Integer values
+5) using int for Integer values .
 
-6) using Double
+6) using Double .
 
-7) calculation of reminder using modulus operator
+7) calculation of reminder using modulus operator .
 
-8) using aithmetic operators for calculation of simple interest
+8) using aithmetic operators for calculation of simple interest .
 
 
