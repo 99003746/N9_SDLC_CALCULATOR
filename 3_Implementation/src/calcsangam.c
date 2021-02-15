@@ -85,7 +85,7 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
         coti=1/tan(ang);
           printf("cot=%f\n",coti);
         break;
-       case 11: //sine inverse
+       case 11: //sine inverse in radian
          printf("Enter The Value\n");
             scanf("%f",&ang);
            arcsini=asin(ang);
