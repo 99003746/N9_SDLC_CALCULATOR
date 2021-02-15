@@ -21,7 +21,7 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
                 adds=san1+san2;
                 printf("addition=%f\n",adds);
                 break;
-        case 2:
+        case 2: //substraction
         printf("Enter Two Number For Substraction\n");
         scanf("%f",&san1);
          scanf("%f",&san2);
