@@ -85,7 +85,7 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
         coti=1/tan(ang);
           printf("cot=%f\n",coti);
         break;
-       case 11:
+       case 11: //sininverse
          printf("Enter The Value\n");
             scanf("%f",&ang);
            arcsini=asin(ang);
