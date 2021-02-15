@@ -2,7 +2,7 @@
 
 **FEATURES:** 1) The calculator will solve all basic arithmetic operations.(addition, substraction, multiplication and division)
 
-2) The calculator will solve all exponential,logarithmic operations, power of a number.factorial of a number.
+2) The calculator will solve all the exponential,logarithmic operations, power of a number.factorial of a number.
 
 3) The calculator is going to solve all trigonometric and inverse trigonometric operations.
 
