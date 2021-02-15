@@ -38,6 +38,8 @@ This Calculator calculates some basic and some specific Calculations on Just ent
 
 17) Calculus and exponential.
 
+18) Binary to decimal conversion.
+
 
 ## Low Level Requirements
 
