@@ -128,3 +128,4 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
  return 0;
 }
 ///commented for test
+//calc program completed
