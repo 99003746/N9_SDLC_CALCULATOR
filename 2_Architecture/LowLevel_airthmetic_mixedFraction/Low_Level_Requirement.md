@@ -17,7 +17,11 @@ Low level requirement diagrams for log, exponent and power.
    
    
  99003787_pujitha  
+ 
+ low level requirement diagrams for arithmetic operations
    
- ![sequence for arithmetic](https://user-images.githubusercontent.com/78854021/107904785-c8c15380-6f72-11eb-8602-1de0568f5ff0.jpg)
-  
+![sequence for arithmetic](https://user-images.githubusercontent.com/78854021/107904785-c8c15380-6f72-11eb-8602-1de0568f5ff0.jpg)
+
 ![user case](https://user-images.githubusercontent.com/78854021/107904881-1dfd6500-6f73-11eb-93a7-c96234539c2d.jpg)
+
+![class diagram for arithmetic](https://user-images.githubusercontent.com/78854021/107904985-67e64b00-6f73-11eb-8d2a-cde2b7af1f9c.jpg)
