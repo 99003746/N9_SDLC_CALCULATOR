@@ -20,7 +20,7 @@
 
 **WEAKNESS:** 1) It has limited operations. People trying to do calculations regarding complex numbers and other things regarding statistics will not be able to do so.
 
-2) The battery inside a solar calculator is mostly alkaline button cell that cannot be recharged.
+2) The battery inside a solar calculator is mostly alkaline button cell which cannot be recharged.
 
 **OPPORTUNITIES:** 1) The price of the product is less than other products with same features that are available in the market.
 
