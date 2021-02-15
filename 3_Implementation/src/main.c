@@ -67,6 +67,60 @@ int main()
 
 
     }
+     
+     //for performing basic arithmetic operations
+     char Operator;
+                float op1, op2, result = 0;
+                
+                // Selection of Basic Arithmetic Operations
+                printf("enter '+' for addition\n");
+                printf("\n enter '-' for substraction\n");
+                printf("\n enter '*' for multiplication\n");
+                printf("\n enter '/' for division\n");
+                
+                // Accepting Users choice of Operation
+                printf("\n Please Enter your choice  :  \n");
+                scanf("%c", &Operator);
+                
+                //Accepting First Number
+                printf("\n Please enter first number  \n");
+                scanf("%f", &op1);
+               
+                //Accepting Second number
+                printf("\n Please enter second number  \n");
+                scanf("%f", &op2);
+                
+                switch(Operator)
+                {
+                    // for Addition
+                                case '+':
+                                    addition(op1,op2);
+                                               
+                                    break;
+                                                
+                                // for Substraction          
+                            
+                                case '-':
+                                    substraction(op1,op2);
+                                    
+                                    break; 
+                                                
+                                //for Multiplication          
+                                case '*':
+                                                multiplication(op1, op2);
+
+                                                break;
+                                                
+                                //for Division
+                                case '/':
+                                                division(op1,op2);
+                                            
+                                                break;
+                                                
+                                // for Wrong Entry
+                                default:
+                                                printf("\n You have enetered an Invalid Operator ");                                                                                                        
+                }
 
     return 0;
 }
