@@ -11,7 +11,6 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
     //multiplication
     //division
     //trigonometric operation
-    //sine
     scanf("%d",&symbols);
    switch(symbols)
     {
@@ -50,7 +49,7 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
          printf("division=%f\n",divs);
          }
          break;
-         case 5:
+         case 5: //sine
           printf("Enter The Value Of Angle\n");
           scanf("%f",&ang);
           sine=sin(ang);
