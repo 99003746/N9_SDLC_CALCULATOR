@@ -1,7 +1,7 @@
 
 **4W & 1H :**
 
-**WHAT:** It is a simple electronic hardware device or software that are capable of performing the simple calculations such as addition, subtraction, multiplication, division , finding power of number, exponential function, logarithmic function, permutation and combination, trigonometric ,inverse trigonometric functions,factorial of a number, binary to decimal conversion etc.
+**WHAT:** It is a simple electronic hardware device or software that are capable of performing the simple calculations such as addition, subtraction, multiplication, division , calculating power of number, exponential function, logarithmic function, permutation and combination, trigonometry ,inverse-trigonometric functions,factorial of a number, binary to decimal conversion etc.
 
 **WHEN:** 1) Useful during exams, for getting complex calculation in very less time.
 
