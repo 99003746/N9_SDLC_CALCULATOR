@@ -1,5 +1,5 @@
 ﻿# Calculator
-This Calculator calculates Basic and some Specific Calculations on Just entring your Basic Details
+This Calculator calculates some basic and some specific Calculations on Just entring your Basic Details
 
 
 # High Level Requirements
