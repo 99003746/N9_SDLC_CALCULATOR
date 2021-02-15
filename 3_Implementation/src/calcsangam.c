@@ -30,7 +30,7 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
         printf("substraction=%f\n",subs);
         break;
         case 3: //multiplication
-        printf("Enter Two Number For Multiplication\n");
+        printf("Enter Two Number For Multiplication\n"); //multiplication
         scanf("%f",&san1);
          scanf("%f",&san2);
          mults=san1*san2;
