@@ -11,6 +11,7 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
     //multiplication
     //division
     //trigonometric operation
+    //sine
     scanf("%d",&symbols);
    switch(symbols)
     {
