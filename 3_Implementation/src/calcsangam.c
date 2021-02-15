@@ -55,7 +55,7 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
           sine=sin(ang);
           printf("sin=%f\n",sine);
         break;
-         case 6:
+         case 6: //cosine
             printf("Enter The Value Of angle\n");
            scanf("%f",&ang);
            cosi=cos(ang);
