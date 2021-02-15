@@ -16,7 +16,7 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
    switch(symbols)
     {
         case 1: //addition
-        printf("Enter Two Number For Addition\n"); 
+        printf("Enter Two Number For Addition\n"); //user input for addition
         scanf("%f",&san1);
          scanf("%f",&san2);
                 adds=san1+san2;
