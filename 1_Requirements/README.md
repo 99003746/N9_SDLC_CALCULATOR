@@ -42,7 +42,7 @@ This Calculator calculates some basic and some specific Calculations on Just ent
 ## Low Level Requirements
 
 1) Exponential operation (result=b^x where b=base and x=exponent. Input type : integer and float) 
-   Logarithmic operation (result=log(x) where the input type of x is integer or float) 
+   Logarithmic operation (result=log(x) where the input type of x is integer or float.) 
 
 2) Area and perimeter of different geometrical shapes (The input data type used in the scenario are integer and float)
 
