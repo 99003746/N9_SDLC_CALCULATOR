@@ -85,13 +85,13 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
         coti=1/tan(ang);
           printf("cot=%f\n",coti);
         break;
-       case 11: //sininverse
+       case 11: //sine inverse
          printf("Enter The Value\n");
             scanf("%f",&ang);
            arcsini=asin(ang);
            printf("sin inverse=%f\n",arcsini);
           break;
-      case 12: //cosinverse
+      case 12: //cos inverse
         printf("Enter The Value\n");
         scanf("%f",&ang);
         arccosi=acos(ang);
@@ -103,7 +103,7 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
      arctani=atan(ang);
      printf("tan inverse=%f\n",arctani);
      break;
-    case 14:
+    case 14: //cosec inverse
      printf("Enter The Value\n");
      scanf("%f",&ang);
     arccoseci=1/asin(ang);
