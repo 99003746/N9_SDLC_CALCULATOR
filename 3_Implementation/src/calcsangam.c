@@ -61,7 +61,7 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
            cosi=cos(ang);
            printf("cos=%f\n",cosi);
           break;
-               case 7: //tan
+               case 7: //tan value in radian
           printf("Enter The Value Of Angle\n");
           scanf("%f",&ang);
           tani=tan(ang);
