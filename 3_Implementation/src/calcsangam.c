@@ -73,7 +73,7 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
            coseci=1/sin(ang);
             printf("cosec=%f\n",coseci);
             break;
-        case 9: //sec
+        case 9: //sec value in radian
         printf("Enter The Value Of Angle\n");
          scanf("%f",&ang);
          seci=1/cos(ang);
