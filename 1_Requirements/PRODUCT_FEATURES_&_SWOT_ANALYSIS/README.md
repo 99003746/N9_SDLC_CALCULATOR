@@ -12,7 +12,7 @@
 
 **SWOT ANALYSIS:**
 
-**STRENGTHS:** 1) Our product is cost efficient.
+**STRENGTHS:** 1) Our product is  very cost efficient.
 
 2) It is very user friendly since it has limited functions.
 
