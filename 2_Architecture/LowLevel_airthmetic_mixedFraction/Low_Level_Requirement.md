@@ -14,3 +14,10 @@ Low level requirement diagrams for log, exponent and power.
 ![LOW_LEVEL_REQUIREMENT_CLASS_DIAGRAM_99003784](https://user-images.githubusercontent.com/78857077/107885585-347ad080-6f21-11eb-825f-1043f146a3e5.png)
 
 ![LOW_LEVEL_REQUIREMENT_USE_CASE_DIAGRAM_99003784](https://user-images.githubusercontent.com/78857077/107885757-0944b100-6f22-11eb-869b-3daf8c581eed.png)
+   
+   
+ 99003787_pujitha  
+   
+ ![sequence for arithmetic](https://user-images.githubusercontent.com/78854021/107904785-c8c15380-6f72-11eb-8602-1de0568f5ff0.jpg)
+  
+![user case](https://user-images.githubusercontent.com/78854021/107904881-1dfd6500-6f73-11eb-93a7-c96234539c2d.jpg)
