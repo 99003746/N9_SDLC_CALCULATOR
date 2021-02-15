@@ -8,6 +8,7 @@ printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press
     //printf("Enter Symbol(1,2,3,4,5,6,7,8,9,10,11,12)\n");
     //addition
     //subtraction
+    //multiplication
     scanf("%d",&symbols);
    switch(symbols)
     {
