@@ -1,4 +1,4 @@
-//#include "basic_trig.h"
+#include "basic_trig.h"
 #include <stdio.h>
 #include <math.h>
 //Basic Airthmetic Operations
