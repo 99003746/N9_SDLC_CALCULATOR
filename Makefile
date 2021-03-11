@@ -6,7 +6,7 @@ BUILD = build
  
 # All source code files
 SRC = project_main.c\
-src/basic_trig.c\
+3_Implementation/src/basic_trig.c\
 
  
 # All test source files
