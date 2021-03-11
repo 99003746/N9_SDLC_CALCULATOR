@@ -5,51 +5,51 @@
 float add(float a,float b)
 {
 float c;
-printf("Enter The Number 1\n");
-scanf("%f",&a); 
-printf("Enter The Number 2\n");
-scanf("%f",&b);
+//printf("Enter The Number 1\n");
+//scanf("%f",&a); 
+//printf("Enter The Number 2\n");
+//scanf("%f",&b);
 c=a+b;
-printf("Addition=%f\n",c);
+//printf("Addition=%f\n",c);
 return c;
 }
 float sub(float a,float b)
 {
 float c;
-printf("Enter The Number 1\n");
-scanf("%f",&a); 
-printf("Enter The Number 2\n");
-scanf("%f",&b);
+//printf("Enter The Number 1\n");
+//scanf("%f",&a); 
+//printf("Enter The Number 2\n");
+//scanf("%f",&b);
 c=a-b;
-printf("Subtraction=%f\n",c);
+//printf("Subtraction=%f\n",c);
 return c;
 }
 float mult(float a,float b)
 {
 float c;
-printf("Enter The Number 1\n");
-scanf("%f",&a); 
-printf("Enter The Number 2\n");
-scanf("%f",&b);
+//printf("Enter The Number 1\n");
+//scanf("%f",&a); 
+//printf("Enter The Number 2\n");
+//scanf("%f",&b);
 c=a*b;
-printf("Multiplication=%f\n",c);
+//printf("Multiplication=%f\n",c);
 return c;
 }
 float div(float a,float b)
 {
 float c;
-printf("Enter The Number 1\n");
-scanf("%f",&a); 
-printf("Enter The Number 2\n");
-scanf("%f",&b);
+//printf("Enter The Number 1\n");
+//scanf("%f",&a); 
+//printf("Enter The Number 2\n");
+//scanf("%f",&b);
 c=a/b;
   if (b==0)
          {
-         printf("Calculator Cannot Print This Value");
+         //printf("Calculator Cannot Print This Value");
          }
          else
          {
-         printf("Division=%f\n",c);
+         //printf("Division=%f\n",c);
          }
          
  return c;
@@ -115,46 +115,46 @@ return b;
 int basic_trig()
 {
     int symbols;
-    printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press-3\nFor Divison press-4\nAll Trigonometric Answer Will Be In Radian\nFor Sin press-5\nFor Cos press-6\nFor Tan press-7\nFor Sin Inverse press-8\nFor Cos Inverse press-9\nFor Tan Inverse press-10\n");  
-    scanf("%d",&symbols);
+    //printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press-3\nFor Divison press-4\nAll Trigonometric Answer Will Be In Radian\nFor Sin press-5\nFor Cos press-6\nFor Tan press-7\nFor Sin Inverse press-8\nFor Cos Inverse press-9\nFor Tan Inverse press-10\n");  
+    //scanf("%d",&symbols);
     float a,b,c;
-     switch(symbols)
-  { 
-    case 1:
-    c=add(a,b);
-    break;
-    case 2:
-    c=sub(a,b);
-    break;
-    case 3:
-    c=mult(a,b);
-    break;
-    case 4:
-    c=div(a,b);
-    break;
-     b=sine(a);
-    break;
-    case 6:
-    b=cosine(a);
-    break;
-    case 7:
-    b=tanf(a);
-    break;
-    case 8:
-    b=sininv(a);
-    break;
-    case 9:
-    b=cosinv(a);
-    break;
-    case 10:
-    b=taninv(a);
-    break;
+     //switch(symbols)
+  // { 
+  //   case 1:
+  //   c=add(a,b);
+  //   break;
+  //   case 2:
+  //   c=sub(a,b);
+  //   break;
+  //   case 3:
+  //   c=mult(a,b);
+  //   break;
+  //   case 4:
+  //   c=div(a,b);
+  //   break;
+  //    b=sine(a);
+  //   break;
+  //   case 6:
+  //   b=cosine(a);
+  //   break;
+  //   case 7:
+  //   b=tanf(a);
+  //   break;
+  //   case 8:
+  //   b=sininv(a);
+  //   break;
+  //   case 9:
+  //   b=cosinv(a);
+  //   break;
+  //   case 10:
+  //   b=taninv(a);
+  //   break;
     
   
     
     return 0;
    } 
-}
+
 
 
 
