@@ -59,55 +59,55 @@ c=a/b;
 float sine(float a)
 {
   float b;
-printf("Enter The Value Of Angle\n");
-scanf("%f",&a);
+//printf("Enter The Value Of Angle\n");
+//scanf("%f",&a);
 b=sin(a);
-printf("sin=%f\n",b);
+//printf("sin=%f\n",b);
 return b;
 }       
 float cosine(float a)
 {
   float b;
-printf("Enter The Value Of Angle\n");
-scanf("%f",&a);
+//printf("Enter The Value Of Angle\n");
+//scanf("%f",&a);
 b=cos(a);
-printf("cosine=%f\n",b);
+//printf("cosine=%f\n",b);
 return b;
 }       
 float tanf(float a)
 {
   float b;
-printf("Enter The Value Of Angle\n");
-scanf("%f",&a);
+//printf("Enter The Value Of Angle\n");
+//scanf("%f",&a);
 b=tan(a);
-printf("tan=%f\n",b);
+//printf("tan=%f\n",b);
 return b;
 }   
 float sininv(float a)
 {
   float b;
-printf("Enter The Value Of Angle\n");
-scanf("%f",&a);
+//printf("Enter The Value Of Angle\n");
+//scanf("%f",&a);
 b=asin(a);
-printf("sininverse=%f\n",b);
+//printf("sininverse=%f\n",b);
 return b;
 }   
 float cosinv(float a)
 {
   float b;
-printf("Enter The Value Of Angle\n");
-scanf("%f",&a);
+//printf("Enter The Value Of Angle\n");
+//scanf("%f",&a);
 b=acos(a);
-printf("cosinverse=%f\n",b);
+//printf("cosinverse=%f\n",b);
 return b;
 }   
 float taninv(float a)
 {
   float b;
-printf("Enter The Value Of Angle\n");
-scanf("%f",&a);
+//printf("Enter The Value Of Angle\n");
+//scanf("%f",&a);
 b=atan(a);
-printf("taninverse=%f\n",b);
+//printf("taninverse=%f\n",b);
 return b;
 }   
 
