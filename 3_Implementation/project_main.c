@@ -1,4 +1,6 @@
 #include"basic_trig.h"
+#include<stdio.h>
+#include<math.h>
 void setUp(void){}
 void tearDown(void){}
 
