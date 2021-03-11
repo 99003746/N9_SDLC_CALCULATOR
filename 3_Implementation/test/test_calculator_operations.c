@@ -1,8 +1,8 @@
 #include "unity.h"
-#include <calculator_operations.h>
+#include <basic_trig.h>
 
 /* Modify these two lines according to the project */
-#include <calculator_operations.h>
+#include <basic_trig.h>
 #define PROJECT_NAME    "Calculator"
 
 /* Prototypes for all the test functions */
@@ -45,22 +45,22 @@ void test_add_testcase2(void) {
   TEST_ASSERT_EQUAL(1500, add(750, 7500));
 }
 void test_subtract(void) {
-  TEST_ASSERT_EQUAL(-3, subtract(0, 3));
+  TEST_ASSERT_EQUAL(-3, sub(0, 3));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(1, subtract(1000, 900));
+  TEST_ASSERT_EQUAL(1, sub(1000, 900));
 }
 
 void test_multiply(void) {
-  TEST_ASSERT_EQUAL(0, multiply(1, 0));
+  TEST_ASSERT_EQUAL(0, mult(1, 0));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(2, multiply(2, 5));
+  TEST_ASSERT_EQUAL(2, mult(2, 5));
 }
 
 void test_divide(void) {
-  TEST_ASSERT_EQUAL(0, divide(1, 0));
+  TEST_ASSERT_EQUAL(0, div(1, 0));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(3, divide(2, 2));
+  TEST_ASSERT_EQUAL(3, div(2, 2));
 }
