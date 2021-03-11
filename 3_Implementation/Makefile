@@ -5,11 +5,7 @@ PROJECT_NAME = Calculator
 BUILD = build
  
 # All source code files
-SRC = project_main.c\
-src/basic_trig.c\
- 
-# All test source files
-TEST_SRC = src/basic_trig.c\
+SRC = src/basic_trig.c\
 test/test_calculator_operations.c\
 unity/unity.c
  
@@ -49,7 +45,7 @@ run:$(PROJECT_NAME)
  
 # Build and run the unit tests
 test:$(BUILD)
-	gcc $(TEST_SRC) $(INC) -o $(TEST_OUTPUT) -lm
+	gcc $(SRC) $(INC) -o $(TEST_OUTPUT) -lm
 	./$(TEST_OUTPUT)
  
 # Remove all the built files, invoke by `make clean`
