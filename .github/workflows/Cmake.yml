@@ -41,7 +41,7 @@ jobs:
       - name: install make
         run: sudo apt install cmake
       - name: build
-        run: make
+        run: make test
   
      
 
