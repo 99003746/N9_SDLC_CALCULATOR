@@ -6,11 +6,11 @@ BUILD = build
  
 # All source code files
 SRC = project_main.c\
-3_Implementation/src/basic_trig.c\
+3_Implementation/src/basic_trig.c
 
  
 # All test source files
-TEST_SRC = src/basic_trig.c\
+TEST_SRC = 3_Implementation/src/basic_trig.c\
 test/test_calculator_operations.c\
 unity/unity.c
  
