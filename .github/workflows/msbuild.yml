@@ -24,4 +24,4 @@ jobs:
     - name: install cppcheck
       run: sudo apt-get install cppcheck
     - name: run make
-      run: make run
+      run: make test
