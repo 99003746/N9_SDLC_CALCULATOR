@@ -115,40 +115,40 @@ return b;
 int basic_trig()
 {
     int symbols;
-    //printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press-3\nFor Divison press-4\nAll Trigonometric Answer Will Be In Radian\nFor Sin press-5\nFor Cos press-6\nFor Tan press-7\nFor Sin Inverse press-8\nFor Cos Inverse press-9\nFor Tan Inverse press-10\n");  
-    //scanf("%d",&symbols);
+    printf("For Addition press-1\nFor Substraction press-2\nFor Multiplication press-3\nFor Divison press-4\nAll Trigonometric Answer Will Be In Radian\nFor Sin press-5\nFor Cos press-6\nFor Tan press-7\nFor Sin Inverse press-8\nFor Cos Inverse press-9\nFor Tan Inverse press-10\n");  
+    scanf("%d",&symbols);
     float a,b,c;
-     //switch(symbols)
-  // { 
-  //   case 1:
-  //   c=add(a,b);
-  //   break;
-  //   case 2:
-  //   c=sub(a,b);
-  //   break;
-  //   case 3:
-  //   c=mult(a,b);
-  //   break;
-  //   case 4:
-  //   c=div(a,b);
-  //   break;
-  //    b=sine(a);
-  //   break;
-  //   case 6:
-  //   b=cosine(a);
-  //   break;
-  //   case 7:
-  //   b=tanf(a);
-  //   break;
-  //   case 8:
-  //   b=sininv(a);
-  //   break;
-  //   case 9:
-  //   b=cosinv(a);
-  //   break;
-  //   case 10:
-  //   b=taninv(a);
-  //   break;
+     switch(symbols)
+  { 
+     case 1:
+     c=add(a,b);
+     break;
+     case 2:
+     c=sub(a,b);
+     break;
+     case 3:
+     c=mult(a,b);
+     break;
+     case 4:
+     c=div(a,b);
+     break;
+      b=sine(a);
+     break;
+     case 6:
+     b=cosine(a);
+     break;
+     case 7:
+     b=tanf(a);
+     break;
+     case 8:
+     b=sininv(a);
+     break;
+     case 9:
+     b=cosinv(a);
+     break;
+     case 10:
+     b=taninv(a);
+     break;
     
   
     
