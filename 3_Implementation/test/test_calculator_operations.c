@@ -26,6 +26,10 @@ void test_cube(void);
 void test_cylinder(void);
 void test_cone(void);
 void test_sphere(void);
+void test_bintodec(void);
+void test_bintodec_1(void);
+
+
 
 
 
@@ -63,6 +67,8 @@ int main()
   RUN_TEST(test_cone);
   RUN_TEST(test_sphere);
 
+  RUN_TEST(test_bintodec);
+  RUN_TEST(test_bintodec_1);
   
 
   /* Close the Unity Test Framework */
@@ -180,3 +186,12 @@ void test_sphere(void)
     TEST_ASSERT_EQUAL(267.44,volume_sphere(4));
 }
 
+void test_bintodec(void)
+{
+  TEST_ASSERT_EQUAL(8, bintodec(1000));
+}
+
+void test_bintodec_1(void)
+{
+  TEST_ASSERT_EQUAL(15, bintodec(1111));
+}
