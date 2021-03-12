@@ -6,6 +6,7 @@ BUILD = build
  
 # All source code files
 SRC = src/basic_trig.c\
+src/main.c\
 test/test_calculator_operations.c\
 unity/unity.c
  
