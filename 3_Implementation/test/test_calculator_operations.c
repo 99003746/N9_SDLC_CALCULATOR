@@ -42,25 +42,25 @@ void test_add(void) {
 void test_add_testcase2(void) {
  
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(1500, add(750, 7500));
+  TEST_ASSERT_EQUAL(1500, add(750, 750));
 }
 void test_subtract(void) {
   TEST_ASSERT_EQUAL(-3, sub(0, 3));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(1, sub(1000, 900));
+  TEST_ASSERT_EQUAL(100, sub(1000, 900));
 }
 
 void test_multiply(void) {
   TEST_ASSERT_EQUAL(0, mult(1, 0));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(2, mult(2, 5));
+  TEST_ASSERT_EQUAL(10, mult(2, 5));
 }
 
 void test_divide(void) {
-  TEST_ASSERT_EQUAL(0, div(1, 0));
+  TEST_ASSERT_EQUAL(1, div(1, 1));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(3, div(2, 2));
+  TEST_ASSERT_EQUAL(1, div(2, 2));
 }
