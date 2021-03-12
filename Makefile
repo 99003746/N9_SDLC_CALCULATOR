@@ -49,6 +49,11 @@ test:$(BUILD)
 	./$(TEST_OUTPUT)
  
 # Remove all the built files, invoke by `make clean`
+analysis:	
+	cppcheck $(SRC)	
+	
+memcheck: $(PROJECT_NAME).out
+	valgrind ./$(PROJECT_NAME).out
 
 clean:
 	rm -rf $(BUILD) $(DOCUMENTATION_OUTPUT)
