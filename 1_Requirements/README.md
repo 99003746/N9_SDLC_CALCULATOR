@@ -14,6 +14,8 @@ This Calculator calculates Basic and some Specific Calculations on Just entring 
 
 5) The calculator will have a liquid crystal display i.e. LCD display.
 
+6) The calculator will solve  the area and volume of different geometrical shapes.
+
 **SWOT ANALYSIS:**
 
 **STRENGTHS:** 
