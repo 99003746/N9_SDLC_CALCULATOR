@@ -13,3 +13,4 @@ GROUP PROJECT(99003784 , 99003786 , 99003787 &amp, 99003788)
 
 [![Unit Testing - Unity](https://github.com/99003784/N9_SDLC_CALCULATOR/actions/workflows/unity.yml/badge.svg)](https://github.com/99003784/N9_SDLC_CALCULATOR/actions/workflows/unity.yml)
 
+[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/99003784/N9_SDLC_CALCULATOR/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/99003784/N9_SDLC_CALCULATOR/actions/workflows/CodeQuality_Dynamic.yml)
