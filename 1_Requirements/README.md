@@ -96,7 +96,7 @@ This Calculator calculates Basic and some Specific Calculations on Just entring 
 
 5) Permutation and Combinations.
 
-6) Finding area and perimeter of different geometrical shapes like circle, square and rectangle.
+6) Finding area and volume of different geometrical shapes like circle, square, rectangle, triangle, cube, cylinder, sphere and cone.
 
 7) Trignometric And Inverse Trignometric Functions.
 
