@@ -23,8 +23,8 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 1. Intially I faced to run test cases unity bit now its runnig
 2. some workflows problems
 3. makefile problem while running in windows but it worked with linux it was extension problem in building but it resolved in linux
-4.git inpector was not working initially but now its working fine
-5.valgrind was not working previously because there was some issue in makefile but now its working fine after resolving makefile
+4. git inpector was not working initially but now its working fine
+5. valgrind was not working previously because there was some issue in makefile but now its working fine after resolving makefile
 6. 
 7. 
 8. 
