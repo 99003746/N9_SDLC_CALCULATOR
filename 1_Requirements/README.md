@@ -2,9 +2,11 @@
 This Calculator calculates Basic and some Specific Calculations on Just entring your Basic Details.
 
 **RESEARCH**
+
 ![image](https://user-images.githubusercontent.com/78857077/110972193-ba076a00-8381-11eb-9fb1-d200f43b80c3.png)
 
 **COST FEATURES**
+
 ![image](https://user-images.githubusercontent.com/78857077/110972370-ed49f900-8381-11eb-9428-67680375c7d4.png)
 
 ![image](https://user-images.githubusercontent.com/78857077/110972478-0ce12180-8382-11eb-983b-72249eddc30b.png)
