@@ -16,7 +16,7 @@ Folder             | Description
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
 99003786|Sangam Patel  |Airthmetic,Trigonometric   |5      | 2   |11   |11     
-`DEF` | 12345678  | Feature C, D etc    | X No     | X No   |X No   |X No     
+99003784| Souvik Jana  | Area,volume(diff shapes)  |2      | 2   |8    |8        | 8
 
 ## Challenges Faced and How Was It Overcome
 
