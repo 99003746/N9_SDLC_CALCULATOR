@@ -27,7 +27,7 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 5. valgrind was not working previously because there was some issue in makefile but now its working fine after resolving makefile
 
 
-[![C/C++ CI - Build Status](https://github.com/99003784/N9_SDLC_CALCULATOR/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/99003784/N9_SDLC_CALCULATOR/actions/workflows/c-cpp.yml)
+
 
 
 
