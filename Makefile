@@ -47,12 +47,12 @@ run:$(PROJECT_NAME)
 test:$(BUILD)
 	gcc $(SRC) $(INC) -o $(TEST_OUTPUT) -lm
 	./$(TEST_OUTPUT)
-
-	analysis:
+	
+analysis:
 	cppcheck $(SRC)
-	memcheck: $(PROJECT_NAME).out
+memcheck: $(PROJECT_NAME).out
 	valgrind ./$(PROJECT_NAME).out
- 	coverage:${PROJECT_NAME}.out
+coverage:${PROJECT_NAME}.out
 	gcc -fprofile-arcs -ftest-coverage $(SRC) -I $(INC) -o $(PROJECT_NAME).out
 	./${PROJECT_NAME}.out
 	gcov -a $(SRC)
