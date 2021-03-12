@@ -18,14 +18,14 @@ void test_trigsininv(void);
 void test_trigcosinv(void);
 void test_trigtaninv(void);
 
-/*void test_circle(void);
+void test_circle(void);
 void test_rectangle(void);
 void test_square(void);
 void test_triangle(void);
 void test_cube(void);
 void test_cylinder(void);
 void test_cone(void);
-void test_sphere(void);*/
+void test_sphere(void);
 
 
 
@@ -54,14 +54,14 @@ int main()
   RUN_TEST(test_trigcosinv);
   RUN_TEST(test_trigtaninv);
   
-  /*RUN_TEST(test_circle);
+  RUN_TEST(test_circle);
   RUN_TEST(test_rectangle);
   RUN_TEST(test_square);
   RUN_TEST(test_triangle);
   RUN_TEST(test_cube);
   RUN_TEST(test_cylinder);
   RUN_TEST(test_cone);
-  RUN_TEST(test_sphere);*/
+  RUN_TEST(test_sphere);
 
   
 
@@ -144,7 +144,7 @@ void test_trigtaninv(void) {
 
 // Test cases for the functions related to area of different geometrical shapes
 
-/*void test_circle(void)
+void test_circle(void)
 {
     TEST_ASSERT_EQUAL(78.55,area_circle(5)); 
 }
@@ -179,4 +179,4 @@ void test_sphere(void)
 {
     TEST_ASSERT_EQUAL(267.44,volume_sphere(4));
 }
-*/
+
