@@ -107,27 +107,29 @@ This Calculator calculates Basic and some Specific Calculations on Just entring 
 
 5) Permutation and Combinations.
 
-6) Finding area and volume of different geometrical shapes like circle, square, rectangle, triangle, cube, cylinder, sphere and cone.
+6) Finding area of different geometrical shapes like circle, square, rectangle, triangle.
 
-7) Trignometric And Inverse Trignometric Functions.
+7) Finding volume of different geometrical shapes like cube, cylinder, cone, sphere.
 
-8) Measurements conversion (km,cm,inch,etc).
+8) Trignometric And Inverse Trignometric Functions.
 
-9) weight conversion (kilogram,litre etc).
+9) Measurements conversion (km,cm,inch,etc).
 
-10) Mixed to improper fractions.
+10) weight conversion (kilogram,litre etc).
 
-11) Cube and cube root.
+11) Mixed to improper fractions.
 
-12) Temperature conversion.
+12) Cube and cube root.
 
-13) Arithmetic operations of fractions. (+,-,*,/) .
+13) Temperature conversion.
 
-14) Calculation of Reminder.
+14) Arithmetic operations of fractions. (+,-,*,/) .
 
-15) Calculation of simple interest.
+15) Calculation of Reminder.
 
-16) Binary to decimal conversion.
+16) Calculation of simple interest.
+
+17) Binary to decimal conversion.
 
 
 ## Low Level Requirements
@@ -135,18 +137,20 @@ This Calculator calculates Basic and some Specific Calculations on Just entring 
 1) Exponential operation (result=b^x where b=base and x=exponent. Input type : integer and float) 
    Logarithmic operation (result=log(x) where the input type of x is integer or float) .
 
-2) Area and perimeter of different geometrical shapes (The input data type used in the scenario are integer and float) .
+2) Area of different geometrical shapes (The input data type used in this scenario are integer,float and long).
 
-3) Permutation and Combination (result=nPr; input type : integer and result=nCr; input type: integer) .
+3) Volume of different geometrical shapes( The input data type used in the scenario are integer and float.)
 
-4) using float for Decimal values .
+4) Permutation and Combination (result=nPr; input type : integer and result=nCr; input type: integer) .
 
-5) using int for Integer values .
+5) using float for Decimal values .
 
-6) using Double .
+6) using int for Integer values .
 
-7) calculation of reminder using modulus operator .
+7) using Double .
 
-8) using aithmetic operators for calculation of simple interest .
+8) calculation of reminder using modulus operator .
+
+9) using aithmetic operators for calculation of simple interest .
 
 
