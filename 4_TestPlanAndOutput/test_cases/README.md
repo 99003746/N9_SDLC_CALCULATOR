@@ -1,6 +1,7 @@
 ## Table no: High Level Test Plan (99003784) :
 
 | **Test ID** | **Description**| **Type of Test** |
+|-------------|--------------------------------------|------------      |
 | H_01        | To perform area calculation of circle| Requirement based|
 | H_02        | To perform area calculation of rectangle| Requirement based |
 | H_03        | To perform area calculation of square| Requirement based |
