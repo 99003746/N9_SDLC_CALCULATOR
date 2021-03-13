@@ -18,7 +18,7 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 99003786|Sangam Patel  |Airthmetic,Trigonometric   |5      | 2   |11   |11     
 99003784| Souvik Jana  | Area,volume(diff shapes)  |2      | 2   |8    |8        | 8
 99003788| Suvradeep Dutta| Binary to Decimal       |1      |1    |2    |2
-
+99003787| Arikatla pujitha |  log,exp,sqrt,cuberoot |2      |2    |4    |4   
 ## Challenges Faced and How Was It Overcome
 
 1. Intially I faced to run test cases unity bit now its runnig
