@@ -5,14 +5,14 @@
 
 | **Test ID** | **Description**                                              | **Exp IN**       | **Exp OUT** | **Actual Out** |**Type Of Test**    |    
 |-------------|--------------------------------------------------------------|------------      |-------------|----------------|------------------  |
-|  L_01       |  To find the area of circle-------------------------------   |------radius=5--  |----78.53----| ----78.53------|--Requirement based |
-|  L_02       |--To find the area of rectangle-------------------------------|length=5,breadth=6|---30------- |----30----------|--Requirement based |
-|  L_03       |--To find the area of square----------------------------------| length=12----    |---144---    |---144------    |-Requirement based  |   
-|  L_04       |--To find the area of triangle------------------------------- |  base=4;height=3 |---6------   |-----6----------|--Requirement based-|
-|  L_05       |--To find the volume of cube--------------------------------- | radius=5         |--125------  | --125          | Requirement based  |
-|  L_06       |---To find the volume of cylinder-----------------------------| radius=6,height=5|--565.56-----|--565.56--------|  Requirement based |
-|  L_07       |---To find the volume of cone---------------------------------| radius=6,height=5|--186.63-----|--186.63--------|--Requirement based |
-|  L_08       |---To find the volume of sphere-------------------------------|--radius=4-----   |--267.64--   |---267.64------ |---Requirement based|
+|  L_01       |  To find the area of circle   |radius=5  |78.53| 78.53|Requirement based |
+|  L_02       |To find the area of rectangle|length=5,breadth=6|30 |30|Requirement based |
+|  L_03       |To find the area of square| length=12    |144    |144   |-Requirement based  |   
+|  L_04       |To find the area of triangle|  base=4;height=3 |6  |6|Requirement based|
+|  L_05       |To find the volume of cube | radius=5         |125 | 125          | Requirement based  |
+|  L_06       |To find the volume of cylinder| radius=6,height=5|565.56|565.56|  Requirement based |
+|  L_07       |To find the volume of cone| radius=6,height=5|186.63|186.63|Requirement based |
+|  L_08       |To find the volume of sphere|radius=4  |267.64   |267.64|Requirement based|
 
 
 
