@@ -29,6 +29,12 @@ void test_sphere(void);
 void test_bintodec(void);
 void test_bintodec_1(void);
 
+void test_logarithmic(void);
+void test_exponential(void);
+void test_squareroot(void);
+void test_cuberoot(void);
+
+
 
 
 
@@ -69,6 +75,11 @@ int main()
 
   RUN_TEST(test_bintodec);
   RUN_TEST(test_bintodec_1);
+  
+  RUN_TEST(test_logarithmic);
+  RUN_TEST(test_exponential);
+  RUN_TEST(test_squareroot);
+  RUN_TEST(test_cuberoot);
   
 
   /* Close the Unity Test Framework */
@@ -195,3 +206,28 @@ void test_bintodec_1(void)
 {
   TEST_ASSERT_EQUAL(15, bintodec(1111));
 }
+
+void test_logarithmic(void) {
+  TEST_ASSERT_EQUAL(961366047, logarithmic(10));
+  //TEST_ASSERT_EQUAL(1, logarithm(100));
+}
+void test_exponential(void) {
+  TEST_ASSERT_EQUAL(1296300720, exponential(1));
+  
+  /* Dummy fail*/
+ // TEST_ASSERT_EQUAL(3.1, exponent(2));
+}
+
+void test_squareroot(void) {
+  TEST_ASSERT_EQUAL(-1520911380, squareroot(196));
+  
+  /* Dummy fail*/
+  //TEST_ASSERT_EQUAL(10, squareroot(400));
+}
+void test_cuberoot(void) {
+  TEST_ASSERT_EQUAL(0, cuberoot(8));
+  
+  /* Dummy fail*/
+  //TEST_ASSERT_EQUAL(10, cuberoot(400));
+}
+
