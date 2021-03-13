@@ -21,7 +21,7 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 99003787| Arikatla pujitha |  log,exp,sqrt,cuberoot |2      |2    |4    |4   
 ## Challenges Faced and How Was It Overcome
 
-1. Intially I faced to run test cases unity bit now its runnig
+1. Intiially I faced to run test cases unity bit now its runnig
 2. some workflows problems
 3. makefile problem while running in windows but it worked with linux it was extension problem in building but it resolved in linux
 4. git inpector was not working initially but now its working fine
