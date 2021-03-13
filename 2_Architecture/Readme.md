@@ -16,3 +16,7 @@
 
 ![Low_level_component_suvradeep](https://user-images.githubusercontent.com/78849542/111020823-86aef480-83ee-11eb-8a51-e50271bb3b49.png)
 
+
+**LLR_Use_Case_Diagram(99003788):**
+
+![Low_level_use-case_suvradeep](https://user-images.githubusercontent.com/78849542/111020873-cf66ad80-83ee-11eb-949f-74e7ee7d66a4.png)
