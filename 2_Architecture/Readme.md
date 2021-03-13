@@ -7,7 +7,9 @@
 
 ![image](https://user-images.githubusercontent.com/78857588/111020486-48b0d100-83ec-11eb-99a0-8ce8aacb5afe.png)
 
-![image](https://user-images.githubusercontent.com/78857077/110974505-9db8fc80-8384-11eb-8388-0363dbd358da.png)
+**LLR(99003784):**
+
+![image](https://user-images.githubusercontent.com/78857077/111020703-d5a85a00-83ed-11eb-9835-74478349f92f.png)
 
 
 
