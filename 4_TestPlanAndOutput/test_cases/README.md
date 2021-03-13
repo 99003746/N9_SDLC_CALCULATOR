@@ -1,19 +1,19 @@
 
 
 
-## Table no: Low level test plan
+## Table no: Low level test plan (99003784) :
 
-| **Test ID** | **Description**                                              | **Exp IN**      | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
-|-------------|--------------------------------------------------------------|------------     |-------------|----------------|------------------|
-|  L_01       |  To find the power of a number-------------------------------|base=2;exponent=3|---8.00------|----8.00--------|--Requirement based |
-|  L_02       |--To find the logarithm---------------------------------------| f(x)=log(x);x=10|---- 2.3025-------|----2.3025-----------|--Requirement based |
-|  L_03       |--To find the exponential-------------------------------------| f(a)=exp(a);a=4-|---54.598---|--54.598-------|-Requirement based |   
-|  L_04       |--To find the power of a number-------------------------------|  base=6;exponent=0 |---1------|-----1----------|--Scenario based--- |
-|  L_05       |--To find the logarithm---------------------------------------|  f(x)=log(x);x=(-1000)|--3+1.3i---|--error-------| ------Scenario based |
-|  L_06       |---To find the exponential------------------------------------|  --f(a)=exp(a)-exp(10000)-----|---undefined----------|--undefined----------|--Scenario based    |
-|  L_07       |---To find the power of number.-------------------------------|  --base=100;exponent=100-|--error-----|--error--|--Boundary based   |
-|  L_08       |---To find the logarithm.--------------------------------  ---|--log(-100000)-----|--5+1.3i--|---error----  |-----boundary based----|
-|  L_09       |---To find the exponential.--------------------------------  -|--exp(100000)-----|--undefined------  |-----error----|-----boundary based----|
+| **Test ID** | **Description**                                              | **Exp IN**       | **Exp OUT** | **Actual Out** |**Type Of Test**    |    
+|-------------|--------------------------------------------------------------|------------      |-------------|----------------|------------------  |
+|  L_01       |  To find the area of circle-------------------------------   |------radius=5--  |----78.53----| ----78.53------|--Requirement based |
+|  L_02       |--To find the area of rectangle-------------------------------|length=5,breadth=6|---30------- |----30----------|--Requirement based |
+|  L_03       |--To find the area of square----------------------------------| length=12----    |---144---    |---144------    |-Requirement based  |   
+|  L_04       |--To find the area of triangle------------------------------- |  base=4;height=3 |---6------   |-----6----------|--Requirement based-|
+|  L_05       |--To find the volume of cube--------------------------------- | radius=5         |--125------  | --125          | Requirement based  |
+|  L_06       |---To find the volume of cylinder-----------------------------| radius=6,height=5|--565.56-----|--565.56--------|  Requirement based |
+|  L_07       |---To find the volume of cone---------------------------------| radius=6,height=5|--186.63-----|--186.63--------|--Requirement based |
+|  L_08       |---To find the volume of sphere-------------------------------|--radius=4-----   |--267.64--   |---267.64------ |---Requirement based|
+
 
 
 ## ## Table no: Low level test plan
