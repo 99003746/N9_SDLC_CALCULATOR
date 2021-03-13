@@ -8,6 +8,7 @@ BUILD = build
 SRC = src/basic_trig.c\
 src/main.c\
 src/bintodec.c\
+src/math_functions.c\
 test/test_calculator_operations.c\
 unity/unity.c
  
